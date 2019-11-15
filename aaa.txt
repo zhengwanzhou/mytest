@@ -10,8 +10,5 @@ bbbbbbbbbbbbbb
 cccccccccccccc
 gggggggggggggg
 hhhhhhhhhhhhhh
-<<<<<<< HEAD
 jjjjjjjjjjjjjj
-=======
 iiiiiiiiiiiiii
->>>>>>> 6a6d5f724c7eff432a605df7637721a7de35a536
