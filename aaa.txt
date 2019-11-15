@@ -2,12 +2,9 @@
 22222222222222
 33333333333333
 44444444444444
-<<<<<<< HEAD
 dddddddddddddd
 eeeeeeeeeeeeee
 ffffffffffffff
-=======
 aaaaaaaaaaaaaa
 bbbbbbbbbbbbbb
 cccccccccccccc
->>>>>>> 891f727035ae22ce2b2440f00b04d9f0d205f0bb
